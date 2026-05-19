@@ -3,7 +3,7 @@ import Navbar from './components/Navbar.vue'
 import Hero from './components/Hero.vue'
 import Projects from './components/Project.vue'
 import Skills from './components/Skill.vue'
-import Contact from './components/Contact.vue'
+import Contact from './components/contact.vue'
 </script>
 
 <template>
